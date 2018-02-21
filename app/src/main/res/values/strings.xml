@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Smart Dictionary</string>
+    <string name="voice_recognition_prompt">This activity demonstrates the voice recognition APIs.</string>
+    <string name="speak_button">Speak!</string>
+    <string name="voice_recognition_results">Results:</string>
+    <string name="supported_languages">Supported Languages</string>
+    <string name="language_preference">Voice Search in Settings</string>
+
+    <!-- Yandex.TRANSLATE API KEY -->
+    <string name="api_key">trnsl.1.1.20170404T125447Z.bce949b7b58b1e67.240e1a1329af7709f29383d4078ddf72442ccbc4</string>
+    <string name="type_word">Type any english word</string>
+    <string name="search">Search</string>
+</resources>
